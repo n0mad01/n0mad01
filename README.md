@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 
 
 ![n0mad01's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0mad01&show_icons=true&theme=default_repocard)
-
-[![Research Video Project](https://github-readme-stats.vercel.app/api/pin/?username=n0mad01&repo=rvp)](https://github.com/StudioProcess/rvp)
