@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![n0mad01's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0mad01&show_icons=true&theme=radical)
+![n0mad01's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0mad01&show_icons=true&theme=default_repocard)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0mad01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
