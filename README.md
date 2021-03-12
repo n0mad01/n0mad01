@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0mad01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
 ![n0mad01's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0mad01&show_icons=true&theme=default_repocard)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n0mad01&repo=StudioProcess/rvp)](https://github.com/anuraghazra/github-readme-stats)
+[![Research Video Project](https://github-readme-stats.vercel.app/api/pin/?username=n0mad01&repo=rvp)](https://github.com/StudioProcess/rvp)
